@@ -1,0 +1,45 @@
+body
+{
+	background-color : lavenderblush;
+	color : blue;
+	font-size : 14pt;
+	text-align : justify;
+}
+
+.margin
+{
+	margin-right : 60%;
+	text-align : justify;
+	font-size : 14pt;
+}
+
+.list-margin
+{
+	margin-left : 5%;
+	font-size : 14pt;
+}
+
+#Top
+{
+	text-align : justify;
+	font-size : 18pt;
+}
+
+.table
+{
+  margin: auto;
+  width: 50%;
+  border: 1pt lavenderblush;
+  padding: 1pt;
+}
+
+#top
+{
+	text-align : center;
+	font-size : 20pt;
+}
+
+#TOP
+{
+	font-size : 25pt;
+}
