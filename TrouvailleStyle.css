@@ -1,0 +1,30 @@
+body
+{
+	background-color : rgb(88, 131, 232);
+	color : white;
+	font-size : 14pt;
+	font-family : "lucida sans typewriter", consolas, monospace;
+}
+
+ol, a
+{
+	color : yellow; /*I used yellow to represent stars*/
+}
+
+#Title
+{
+	text-align : center;
+}
+
+#top
+{
+	text-align : center;
+	font-size : 20pt;	/*The sentence itself is also a larger font than the rest of the body. It is also centered so that
+						it sticks out*/
+}
+
+#TOP
+{
+	font-size : 25pt; 	/*I made the specific word 'top' larger than the rest of the sentence so that it stands out and is
+						easy to see and click*/
+}
