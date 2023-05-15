@@ -1,16 +1,14 @@
 body
 {
-	background-color : palegoldenrod;	/*I chose this specific colour for the background since it is a similar colour to
-										the background of the 1989 album*/
-	color : mediumorchid;	/*The shirt Taylor is wearing is similar in colour. I chose these two colours to create a 
-							colour scheme for the album*/
-	font-family : consolas, monaco, monospace;
-	font-size : 16pt;
+	background-color : coral; /*I got these two colours from the cardigan Taylor is wearing in the album cover */
+	color : maroon;
+	font-size : 14pt;
+	font-family : "calibri light", "arial narrow", sans-serif;
 }
 
 ol, a
 {
-	color : orangered;
+	color : forestgreen; /* This came from the forest in the background of Taylor */
 }
 
 #Title

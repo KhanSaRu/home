@@ -1,16 +1,17 @@
 body
 {
-	background-color : palegoldenrod;	/*I chose this specific colour for the background since it is a similar colour to
-										the background of the 1989 album*/
-	color : mediumorchid;	/*The shirt Taylor is wearing is similar in colour. I chose these two colours to create a 
-							colour scheme for the album*/
-	font-family : consolas, monaco, monospace;
-	font-size : 16pt;
+	background-color : black;
+	color : blue;
+	font-size : 14pt;
+	font-family : "ink free", gabriola, fantasy; 	/*I chose ink free as the font because the title of the album looks like It
+													was written by hand. Ink free is a font that has a similar feel as hand
+													written words */
+	font-weight : bold;
 }
 
 ol, a
 {
-	color : orangered;
+	color : white;
 }
 
 #Title

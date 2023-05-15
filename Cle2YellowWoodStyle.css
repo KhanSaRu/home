@@ -1,16 +1,15 @@
 body
 {
-	background-color : palegoldenrod;	/*I chose this specific colour for the background since it is a similar colour to
-										the background of the 1989 album*/
-	color : mediumorchid;	/*The shirt Taylor is wearing is similar in colour. I chose these two colours to create a 
-							colour scheme for the album*/
-	font-family : consolas, monaco, monospace;
-	font-size : 16pt;
+	background-color : black;	/*The second part of the "cle set". For this one the colour scheme is black, white and yellow.
+								the yellow is the only difference in the colour scheme from the first one. */
+	color : yellow;
+	font-size : 14pt;
+	font-family: impact, "arial black", sans-serif;
 }
 
 ol, a
 {
-	color : orangered;
+	color : white;
 }
 
 #Title

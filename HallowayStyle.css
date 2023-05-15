@@ -1,16 +1,15 @@
 body
 {
-	background-color : palegoldenrod;	/*I chose this specific colour for the background since it is a similar colour to
-										the background of the 1989 album*/
-	color : mediumorchid;	/*The shirt Taylor is wearing is similar in colour. I chose these two colours to create a 
-							colour scheme for the album*/
-	font-family : consolas, monaco, monospace;
-	font-size : 16pt;
+	background-color : #f0ecc8; /*I stuck to light colours to stick to the dreamy feel of not only the album itself but also 
+								the album cover */
+	color : #19730f;
+	font-size : 14pt;
+	font-family : "lucida handwriting", papyrus, cursive;
 }
 
 ol, a
 {
-	color : orangered;
+	color : #dbcb40;
 }
 
 #Title
