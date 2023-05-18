@@ -1,10 +1,30 @@
 body
 {
-	background-color :
-	color :
+	background-color : rgb(255, 228, 166);
+	color : #15ab7e;
+	font-size : 14pt;
+	font-family : "ink free", arial, sans-serif;
 }
 
 ol, a
 {
-	color :
+	color : #d14141; /*The colour scheme of this page follows the three colours of the clouds around the border */
+}
+
+#Title
+{
+	text-align : center;
+}
+
+#top
+{
+	text-align : center;
+	font-size : 20pt;	/*The sentence itself is also a larger font than the rest of the body. It is also centered so that
+						it sticks out*/
+}
+
+#TOP
+{
+	font-size : 25pt; /*I made the specific word 'top' larger than the rest of the sentence so that it stands out and is
+						easy to see and click*/
 }

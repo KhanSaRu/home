@@ -1,10 +1,30 @@
 body
 {
-	background-color :
-	color :
+	background-color : ghostwhite; /*I kept a black and white colour scheme since that is the scheme of the album cover */
+	color : dimgray;
+	font-size : 14pt;
+	font-family : helvatica, "arial narrow", sans-serif;
 }
 
 ol, a
 {
-	color :
+	color : black;
+}
+
+#Title
+{
+	text-align : center;
+}
+
+#top
+{
+	text-align : center;
+	font-size : 20pt;	/*The sentence itself is also a larger font than the rest of the body. It is also centered so that
+						it sticks out*/
+}
+
+#TOP
+{
+	font-size : 25pt; 	/*I made the specific word 'top' larger than the rest of the sentence so that it stands out and is
+						easy to see and click*/
 }
