@@ -1,10 +1,31 @@
 body
 {
-	background-color : white;
+	background-color : white; 	/*I kept the scheme of this page simple. Since the album itself lacks a lot of colour I decided
+								to go in that direction as well. */
 	color : black;
+	font-size : 14pt;
+	font-family : "bahnschrift light", courier, monospace;
 }
 
 ol, a
 {
 	color : red;
+}
+
+#Title
+{
+	text-align : center;
+}
+
+#top
+{
+	text-align : center;
+	font-size : 20pt;	/*The sentence itself is also a larger font than the rest of the body. It is also centered so that
+						it sticks out*/
+}
+
+#TOP
+{
+	font-size : 25pt; 	/*I made the specific word 'top' larger than the rest of the sentence so that it stands out and is
+						easy to see and click*/
 }
