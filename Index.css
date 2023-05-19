@@ -19,18 +19,23 @@ body
 	font-size : 14pt;
 }
 
-#Top
-{
-	text-align : justify;
-	font-size : 18pt;
-}
-
 .table
 {
   margin: auto;
   width: 50%;
   border: 1pt lavenderblush;
   padding: 1pt;
+}
+
+.reference
+{
+	text-align : center;
+}
+
+#Top
+{
+	text-align : justify;
+	font-size : 18pt;
 }
 
 #top
