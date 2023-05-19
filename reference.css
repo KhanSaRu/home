@@ -1,0 +1,17 @@
+body
+{
+	font-size : 16pt;
+	background-color : lightyellow; /*I kept the dreamy feel of the home page with the light colours */
+	color : magenta;
+}
+
+a
+{
+	color : lightblue;
+}
+
+.p
+{
+	font-size : 32pt; /* I made this sentence a lot bigger so that it looks like a title */
+	text-align : center;
+}
